@@ -2,3 +2,5 @@ langchain
 langgraph
 langsmith
 ipykernel
+python-dotenv
+langchain-groq
